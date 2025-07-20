@@ -1,0 +1,8 @@
+{
+    "num_floors": 12,
+    "num_elevators": 2,
+    "elevator_speed_sec": 0.4,
+    "idle_time_sec": 2.0,
+    "building_width": 500,
+    "floor_height": 60
+}
