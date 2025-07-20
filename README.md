@@ -1,6 +1,6 @@
 # Elevator Simulator
 
-A fun, college-level project that simulates elevator dispatch in a building using Python and Tkinter. Press buttons, watch the elevators move, and experiment with different scheduling strategies.
+A college-level project that simulates elevator dispatch in a building using Python and Tkinter. Press buttons, watch the elevators move, and experiment with different scheduling strategies.
 
 ---
 
@@ -112,12 +112,3 @@ tests/            # Basic unit tests
 
 ---
 
-## 📈 Metrics (Optional)
-
-Run with the `--benchmark` flag to collect stats on average wait time and throughput.
-
----
-
-### Enjoy!
-
-Feel free to play around, read the code, and drop me an issue if you find bugs or have ideas to improve the scheduler. Great practice for learning threading, GUIs, and basic algorithms!
